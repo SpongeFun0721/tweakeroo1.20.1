@@ -1,3 +1,6 @@
+从1.21.11搬来的汉化
+汉化 by 金合欢酱(acaciachan)
+
 Tweakeroo
 ==============
 Tweakeroo is a client-side-only Minecraft mod using LiteLoader.
